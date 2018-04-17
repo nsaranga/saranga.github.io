@@ -1,1 +1,1 @@
-;nsaranga.github.io](https://nsaranga.github.io/)
+[nsaranga.github.io](https://nsaranga.github.io/)
