@@ -1,2 +1,1 @@
-# nsaranga.github.io
-## An Informative Website About Me
+;nsaranga.github.io](https://nsaranga.github.io/)
