@@ -1,6 +1,6 @@
 @font-face{font-family:"Vollkorn"}
 @font-face{font-family:"Crimson Text"}
-.navbar{box-shadow: 0px 2px 2px -1px black;background-color:white;position:sticky;top:0;width:100%;text-align:center;border-bottom:1px solid black;font-size:20px;font-family:Vollkorn;font-weight:400;display:inline-block;margin:0px 0px 15px 0px;}
+.navbar{box-shadow: 0px 2px 2px -2px black;background-color:white;position:sticky;top:0;width:100%;text-align:center;border-bottom:1px solid black;font-size:20px;font-family:Vollkorn;font-weight:400;display:inline-block;margin:0px 0px 15px 0px;}
 .navbuttons{text-align:center;padding:0px 10px 0px 10px;color:black;cursor:pointer;text-decoration:none;display:inline-block;-webkit-transition-duration:0.3s;transition-duration:0.3s;margin:0px 0px 0px 0px;}
 .navbuttons:hover{background-color:grey;color:white;cursor:pointer;text-decoration:none;}
 .navbuttons:active{background-color:black;color:white;text-decoration:none;}
