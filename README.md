@@ -1,2 +1,2 @@
 # Saranga Sudarshan
-[nsaranga.github.io](https://nsaranga.github.io/)
+[saranga.github.io](https://saranga.github.io/)
