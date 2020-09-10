@@ -34,10 +34,11 @@ permalink: /research/
 
 ## PhD Thesis
 
-*Disagreement, Concepts and Convergence: A New Theory of Political Realist Legitimacy*
+[*Disagreement, Concepts and Convergence: A New Theory of Political Realist Legitimacy*](/assets/160005958-Final.pdf)
 
+<!--
 Abstract: This thesis argues for a novel conception of political realism as a theory of political legitimacy: the Dual Convergent Conception. The thesis is framed by the thought that one way of theorising about political legitimacy involves working out how reasonable people can achieve a stable political order so that, despite their profound moral differences, they may live together governed by principles they have sufficient moral reason to affirm from within their own point of view. I argue that this ultimately involves making a special sort of argument that takes reasonable disagreement about justice seriously: a Disagreement to Legitimacy argument. This is an argument with two parts. The first part involves finding the best explanation of reasonable disagreement about justice. After arguing against all extant explanations of reasonable disagreement, I develop a novel explanation: Diverse Packages Theory. This explanation makes use of the idea of metalinguistic negotiation and empirical work in developmental psychology on concepts, to argue that the best explanation of reasonable disagreement about justice is that reasonable people possess and use diverse concepts and conceptions of justice. The second part of the Disagreement to Legitimacy argument involves proposing, on the basis of Diverse Packages Theory's explanation, how all reasonable people can have sufficient moral reason to coordinate and continue coordinating over time on coercive principles or rules that order society's basic institutions. I then argue that extant conceptions of political liberalism and political realism cannot show how reasonable people can achieve this. I then argue that by combining certain elements of the political liberal view of convergent agreements, and the political realist focus on a contextually situated acceptance of coercively enforced political principles, the Dual Convergent Conception of political realism can show how reasonable people can achieve a stable political order.
-
+-->
 
 
 
