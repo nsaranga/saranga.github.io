@@ -13,11 +13,11 @@ permalink: /research/
 
 ## In Progress and Under Review
 
-"The Irrevocability of Capital Punishment and Active Voluntary Euthanasia" (under review)
+["The Irrevocability of Capital Punishment and Active Voluntary Euthanasia"](/assets/CapitalPunishmentEuthanasiaPaper.pdf) (under review)
 
-"Reasonable Disagreement and Metalinguistic Negotiation" (under review)
+["Reasonable Disagreement and Metalinguistic Negotiation"](/assets/ReasonableDisagreementMetalinguisticNegotiation.pdf) (under review)
 
-"Why the Convergence Conception of Political Liberalism Cannot Achieve Stability" (under review)
+["Why the Convergence Conception of Political Liberalism Cannot Achieve Stability"](/assets/WhyConvergenceCannotAchieveStability.pdf) (under review)
 
 "The Independence of Political Theory"
 
