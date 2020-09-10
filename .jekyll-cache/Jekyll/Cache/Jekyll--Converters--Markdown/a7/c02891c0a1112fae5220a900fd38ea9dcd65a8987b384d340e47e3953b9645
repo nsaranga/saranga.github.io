@@ -1,0 +1,34 @@
+I"�<!-- ![profile](/assets/profile.jpg){:style="float:right;margin:0px 0px 15px 15px;width:30%;height: auto;"}
+*Credit: Clotilde Torregrossa*
+-->
+
+<figure style="float:left;margin:20px 20px 0px 0px;">
+<img src="/assets/profile.jpg" alt="Profile" style="max-width:50%;height:auto;" /> <figcaption>Photo by Clotilde Torregrossa</figcaption>
+</figure>
+
+<p>Hi! I’m Saranga Sudarshan, and you’ve landed at my personal website. I received my PhD from the University of St Andrews and University of Stirling in 2020 for my thesis, <em>Disagreement, Concepts and Convergence: A New Theory of Political Realist Legitimacy</em>. Before doing a PhD I was a Research Analyst at Frost &amp; Sullivan in Sydney.</p>
+
+<figure style="text-align:center;">
+<img src="/assets/profile.jpg" alt="Profile" style="max-width:50%;height: auto;" /> <figcaption>Credit: Clotilde Torregrossa</figcaption>
+</figure>
+
+<!-- My thesis, *Disagreement, Concepts and Convergence: A New Theory of Political Realist Legitimacy* argued for a novel conception of political realism as a theory of political legitimacy, the 'Dual Convergent Conception', by making use of recent innovations in the philosophy of language on metalinguistic negotiations, and in developmental psychology on the nature of concepts. You can read my thesis here. 
+
+ALSO CONSIDER PUTTING OSME OF MY INSTA PHOTOS ON THE WEBSITE
+
+-->
+
+<p>To find out more about me you can:</p>
+<ul>
+  <li>Download my <a href="/assets/AcademicResumeCV.pdf">Resume/CV</a></li>
+  <li>See my <a href="https://orcid.org/0000-0002-0750-0177">ORCID</a></li>
+  <li>Follow me on <a href="https://philpeople.org/profiles/saranga-sudarshan">philpapers</a></li>
+</ul>
+
+<p>To contact me you can either:</p>
+<ul>
+  <li>Email me at <a href="mailto:nsaranga@gmail.com">nsaranga@gmail.com</a></li>
+  <li>DM me on <a href="https://www.twitter.com/humesfinger/">Twitter</a> or <a href="https://www.instagram.com/humesfinger/">Instagram</a></li>
+</ul>
+
+:ET

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=UTF-8"/>
+<title>{{ site.title }}</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="https://fonts.googleapis.com/css?family=Crimson+Text:400,400i,600,600i,700,700i|Vollkorn:400,400i,700,700i" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="{{ "/assets/sswp.css" | relative_url }}">
+<link rel="stylesheet" type="text/css" media="screen and (max-width: 800px)" href="{{ "/assets/sswpmobile.css" | relative_url }}">
+</head>
+
+<body style="max-width:960px;margin:0 auto;">
+<header role="banner">
+<div class="titlebox">
+<a class="titlelink" rel="author" href="{{ "/" | relative_url }}">Saranga Sudarshan</a>
+</div>
+<div class="navbar">
+<a class="navbuttons" href="/">Home</a>
+<a class="navbuttons" href="/research/">Research</a>
+<a class="navbuttons" href="/teaching/">Teaching</a>
+<a class="navbuttons" href="/blog/">Blog</a>
+</div>
+</header>
+<div class="page-content">
+
+{{ content }}
+</div>
+</body>
+</html>
