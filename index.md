@@ -30,7 +30,7 @@ To find out more about me you can:
 - Follow me on [philpapers](https://philpeople.org/profiles/saranga-sudarshan)
 
 To contact me you can either:
-- Email me at [nsaranga@gmail.com](mailto:nsaranga@gmail.com)
+- Email me at [nsaranga@hotmail.com](mailto:nsaranga@hotmail.com)
 - DM me on [Twitter](https://www.twitter.com/humesfinger/) or [Instagram](https://www.instagram.com/humesfinger/)
 
 
