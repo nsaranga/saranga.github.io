@@ -6,7 +6,7 @@ layout: default
 *Credit: Clotilde Torregrossa*
 -->
 
-Hi! I'm Saranga Sudarshan, and you've landed at my personal website. I received my PhD from the University of St Andrews and University of Stirling in 2020 for my thesis, *Disagreement, Concepts and Convergence: A New Theory of Political Realist Legitimacy*. During my PhD I spent half a year at the University of Arizona working with Gerald Gaus. Before doing a PhD I was a Research Analyst at Frost & Sullivan in Sydney, and before that I did an MPhil and a BA (Hons) at the Univeristy of Sydney.
+Hi! I'm Saranga Sudarshan, and you've landed at my personal website. I received my PhD from the University of St Andrews and University of Stirling in 2020 for my thesis, *Disagreement, Concepts and Convergence: A New Theory of Political Realist Legitimacy*. During my PhD I spent half a year at the University of Arizona working with Gerald Gaus. Before doing a PhD I was a Research Analyst at Frost & Sullivan in Sydney, and before that I did an MPhil and a BA (Hons) at the University of Sydney.
 
 <figure style="text-align:center;">
 <img src="/assets/img014.jpg" alt="Profile"/>

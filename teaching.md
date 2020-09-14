@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-![profile](/assets/img020.jpg){:style="display:block;float:right;margin: 0px 0px 0px 20px;max-width:50%;height: auto;"} I am fond of teaching philosophy, especially at an undergraduate level. My areas of teaching specialisation are Moral and Political Philosophy, Applied Ethics, and Introductory Logic. My areas of teaching competence are, philosophy language, metaphysics, epistemology, and philosophy of mind. 
+![profile](/assets/img020.jpg){:style="display:block;float:right;margin: 0px 0px 0px 10px;max-width:50%;height: auto;"} I am fond of teaching philosophy, especially at an undergraduate level. My areas of teaching specialisation are Moral and Political Philosophy, Applied Ethics, and Introductory Logic. My areas of teaching competence are, philosophy language, metaphysics, epistemology, and philosophy of mind. 
 
 <!--
 As a Tutor, my experience is in small-group teaching (5--10 students) for undergraduate modules in moral and political philosophy. This primarily involved teaching a mix of foundational moral philosophy (eg. Utilitarianism, Kantian Deontology, Contractualism and Virtue Ethics), applied ethics topics (eg. abortion and animal rights), and foundational political philosophy (eg. Liberalism, Democratic Theory, Distributive Justice, and Multiculturalism). I have also tutored undergraduate modules in introductory classical logic, philosophy of language, epistemology, metaphysics, and philosophy of mind.

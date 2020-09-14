@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-![profile](/assets/img013.jpg){:style="display:block;float:left;margin: 0px 20px 0px 0px;max-width:50%;height: auto;"} My current research interests involve political philosophy, applied ethics, philosophical methodology and conceptual engineering/conceptual ethics. My areas of specialisation are moral and political philosophy, with a particular focus on, political realism, political liberalism, political legitimacy, moral and political disagreement, and conceptual engineering/conceptual ethics. My areas of competence are, philosophy language, moral psychology and applied ethics.
+![profile](/assets/img013.jpg){:style="float:left;margin: 0px 10px 0px 0px;max-width:50%;height: auto;"} My current research interests involve political philosophy, applied ethics, philosophical methodology and conceptual engineering/conceptual ethics. My areas of specialisation are moral and political philosophy, with a particular focus on, political realism, political liberalism, political legitimacy, moral and political disagreement, and conceptual engineering/conceptual ethics. My areas of competence are, philosophy language, moral psychology and applied ethics.
 
 
 
