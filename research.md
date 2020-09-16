@@ -11,9 +11,11 @@ permalink: /research/
 
 ## Publications
 
+["The Irrevocability of Capital Punishment and Active Voluntary Euthanasia", *Journal of Applied Philosophy*, forthcoming.](/assets/CapitalPunishmentEuthanasiaPaper.pdf)
+
 ## In Progress and Under Review
 
-["The Irrevocability of Capital Punishment and Active Voluntary Euthanasia", forthcoming in Journal of Applied Philosophy](/assets/CapitalPunishmentEuthanasiaPaper.pdf) (under review)
+
 
 ["Reasonable Disagreement and Metalinguistic Negotiation"](/assets/ReasonableDisagreementMetalinguisticNegotiation.pdf) (under review)
 
