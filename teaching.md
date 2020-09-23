@@ -7,7 +7,7 @@ permalink: /teaching/
 I am fond of teaching philosophy, especially at an undergraduate level. My areas of teaching specialisation are Moral and Political Philosophy, Applied Ethics, and Introductory Logic. My areas of teaching competence are, philosophy language, metaphysics, epistemology, and philosophy of mind. 
 
 <figure style="text-align:center;">
-<img src="/assets/img020.jpg" alt="standrews"/>
+<img src="/assets/standrews.jpg" alt="standrews"/>
 <figcaption> St Andrews </figcaption>
 </figure>
 
