@@ -14,7 +14,7 @@ My current research interests involve political philosophy, applied ethics, phil
 
 ## Publications
 
-["The Irrevocability of Capital Punishment and Active Voluntary Euthanasia", *Journal of Applied Philosophy*, forthcoming](/assets/CapitalPunishmentEuthanasiaPaper.pdf)
+["The Irrevocability of Capital Punishment and Active Voluntary Euthanasia", *Journal of Applied Philosophy*](https://doi.org/10.1111/japp.12478)
 
 ## In Progress and Under Review
 
@@ -22,7 +22,7 @@ My current research interests involve political philosophy, applied ethics, phil
 
 ["Why the Convergence Conception of Political Liberalism Cannot Achieve Stability"](/assets/WhyConvergenceCannotAchieveStability.pdf) (under review)
 
-[The Instability of the Restrained Domination Conception of Political Realism](/assets/BetweenConsensusUnrestrainedCoercionPoliticalRealism.pdf) (under review)
+["The Instability of the Restrained Domination Conception of Political Realism"](/assets/BetweenConsensusUnrestrainedCoercionPoliticalRealism.pdf) (under review)
 
 "The Independence of Political Theory"
 
