@@ -1,31 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset=UTF-8"/>
-<title>Saranga Sudarshan</title>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href="https://fonts.googleapis.com/css?family=Crimson+Text:400,400i,600,600i,700,700i|Vollkorn:400,400i,700,700i" rel="stylesheet">
-<link rel="stylesheet" type="text/css" href="/assets/sswp.css">
-<!--
-<link rel="stylesheet" type="text/css" media="screen and (max-width: 800px)" href="/assets/sswpmobile.css">
--->
-</head>
-
-<body>
-<header role="banner">
-<div class="titlebox">
-<a class="titlelink" rel="author" href="/">Saranga Sudarshan</a>
-</div>
-<div class="navbar">
-<a class="navbuttons" href="/">Home</a>
-<a class="navbuttons" href="/research/">Research</a>
-<a class="navbuttons" href="/teaching/">Teaching</a>
-<a class="navbuttons" href="/blog/">Blog</a>
-</div>
-</header>
-<div class="page-content">
-
-<h1 id="teaching">Teaching</h1>
+I"
+<h1 id="teaching">Teaching</h1>
 
 <p>I am fond of teaching philosophy, especially at an undergraduate level. My areas of teaching specialisation are Moral and Political Philosophy, Applied Ethics, and Introductory Logic. My areas of teaching competence are, philosophy language, metaphysics, epistemology, and philosophy of mind.</p>
 
@@ -66,7 +40,4 @@ As a Lecturer, my experience is in undergraduate lecturing (50--100 students) in
   <li>PY1010 Mind and World</li>
   <li>Moral Philosophy module on the International Summer School Programme</li>
 </ul>
-
-</div>
-</body>
-</html>
+:ET

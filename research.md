@@ -3,6 +3,7 @@ layout: default
 title: Research
 permalink: /research/
 ---
+# {{ page.title }}
 
 My current research interests involve political philosophy, applied ethics, philosophical methodology and conceptual engineering/conceptual ethics. My areas of specialisation are moral and political philosophy, with a particular focus on, political realism, political liberalism, political legitimacy, moral and political disagreement, and conceptual engineering/conceptual ethics. My areas of competence are, philosophy language, moral psychology and applied ethics.
 
@@ -14,7 +15,7 @@ My current research interests involve political philosophy, applied ethics, phil
 
 ## Publications
 
-["The Irrevocability of Capital Punishment and Active Voluntary Euthanasia", *Journal of Applied Philosophy*](https://doi.org/10.1111/japp.12478)
+["The Irrevocability of Capital Punishment and Active Voluntary Euthanasia"](https://doi.org/10.1111/japp.12478), *Journal of Applied Philosophy*
 
 ## In Progress and Under Review
 
