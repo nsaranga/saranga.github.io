@@ -29,6 +29,9 @@ My current research interests involve political philosophy, applied ethics, phil
 
 "The Dual Convergent Conception of Political Realism"
 
+## Public Philosophy
+["How should we think about the Irrevocability of Capital Punishment and Euthanasia?"](http://justice-everywhere.org/health/how-should-we-think-about-the-irrevocability-of-capital-punishment-and-euthanasia/), *Justice Everywhere*.
+
 <!--
 \item Three Views on Explaining Reasonable Disagreement
 \item Reasonable Disagreement and Metalinguistic Negotiation (under review at Metaphilosophy)
