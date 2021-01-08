@@ -17,6 +17,9 @@ My current research interests involve political philosophy, applied ethics, phil
 
 ["The Irrevocability of Capital Punishment and Active Voluntary Euthanasia"](https://doi.org/10.1111/japp.12478), *Journal of Applied Philosophy*
 
+[Book review of "Political Pluralism, Disagreement and Justice: The Case for Polycentric Democracy"](https://docs.google.com/document/d/1c0ml6b_4sprN26Qd6DfpYyZsGOtlKKngtWqv3ZRMR-k/edit?usp=sharing), *Journal of Applied Philosophy*, forthcoming.
+
+
 ## In Progress and Under Review
 
 ["Reasonable Disagreement and Metalinguistic Negotiation"](/assets/ReasonableDisagreementMetalinguisticNegotiation.pdf) (under review)
