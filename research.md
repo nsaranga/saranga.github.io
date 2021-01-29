@@ -15,9 +15,9 @@ My current research interests involve political philosophy, applied ethics, phil
 
 ## Publications
 
-["The Irrevocability of Capital Punishment and Active Voluntary Euthanasia"](https://doi.org/10.1111/japp.12478), *Journal of Applied Philosophy*
+["The Irrevocability of Capital Punishment and Active Voluntary Euthanasia"](https://doi.org/10.1111/japp.12478), *Journal of Applied Philosophy*, 2020 (Open Access)
 
-[Book review of "Political Pluralism, Disagreement and Justice: The Case for Polycentric Democracy"](https://docs.google.com/document/d/1c0ml6b_4sprN26Qd6DfpYyZsGOtlKKngtWqv3ZRMR-k/edit?usp=sharing), *Journal of Applied Philosophy*, forthcoming.
+[Book review of "Political Pluralism, Disagreement and Justice: The Case for Polycentric Democracy"](https://doi.org/10.1111/japp.12494), *Journal of Applied Philosophy*, 2021 [(Preprint)](https://docs.google.com/document/d/1c0ml6b_4sprN26Qd6DfpYyZsGOtlKKngtWqv3ZRMR-k/edit?usp=sharing)
 
 
 ## In Progress and Under Review
