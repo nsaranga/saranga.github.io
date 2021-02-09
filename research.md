@@ -19,7 +19,7 @@ My current research interests involve political philosophy, applied ethics, phil
 
 [Book review of "Political Pluralism, Disagreement and Justice: The Case for Polycentric Democracy"](https://doi.org/10.1111/japp.12494), *Journal of Applied Philosophy*, 2021 [(Preprint)](https://docs.google.com/document/d/1c0ml6b_4sprN26Qd6DfpYyZsGOtlKKngtWqv3ZRMR-k/edit?usp=sharing)
 
-Book review of "Political Pluralism, Disagreement and Justice: The Case for Polycentric Democracy", *Journal of Moral Philosophy*, 2021 [(Preprint)](https://docs.google.com/document/d/1nSV86y9-RPJRQ3PltHQoNBsickirNsDqDW4Nor0uQ-Q/edit?usp=sharing)
+Book review of "Minimal Morality: A Multilevel Social Contract Theory", *Journal of Moral Philosophy*, forthcoming [(Preprint)](https://docs.google.com/document/d/1nSV86y9-RPJRQ3PltHQoNBsickirNsDqDW4Nor0uQ-Q/edit?usp=sharing)
 
 ## In Progress and Under Review
 
