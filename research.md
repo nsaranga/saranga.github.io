@@ -5,7 +5,7 @@ permalink: /research/
 ---
 # {{ page.title }}
 
-My current research interests involve theories of political legitimacy, political realism, philosophical methodology and conceptual engineering/conceptual ethics. My areas of specialisation are moral and political philosophy. My areas of competence are, philosophy language, moral psychology and applied ethics.
+My current research interests involve theories of political legitimacy, political realism, philosophical methodology and conceptual engineering/conceptual ethics. My areas of specialisation are political philosophy, moral philosophy and applied ethics. My areas of competence are, philosophy language, moral psychology and conceptual engineering/conceptual ethics.
 
 <figure style="text-align:center;">
 <img src="/assets/lake.jpg" alt="glencoe"/>
