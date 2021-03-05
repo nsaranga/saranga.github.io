@@ -21,9 +21,11 @@ My current research interests involve theories of political legitimacy, politica
 
 Book review of *Minimal Morality: A Multilevel Social Contract Theory* by Michael Moehler, *Journal of Moral Philosophy*, forthcoming [(Preprint)](https://docs.google.com/document/d/1nSV86y9-RPJRQ3PltHQoNBsickirNsDqDW4Nor0uQ-Q/edit?usp=sharing)
 
+Book review of *What is Political Philosophy* by Charles Larmore, *Journal of Applied Philosophy*, forthcoming [(Preprint)](https://docs.google.com/document/d/1bxygyWASwlTdRSkkfM9eWjShCQXQ28UKg1Rj9RH8mSQ/edit?usp=sharing)
+
 ## In Progress and Under Review
 
-["Reasonable Disagreement and Metalinguistic Negotiation"](/assets/ReasonableDisagreementMetalinguisticNegotiation.pdf) (under review)
+["Reasonable Disagreement and Metalinguistic Negotiation"](/assets/ReasonableDisagreementMetalinguisticNegotiation.pdf)
 
 ["Why the Convergence Conception of Political Liberalism Cannot Achieve Stability"](/assets/WhyConvergenceCannotAchieveStability.pdf) (under review)
 
