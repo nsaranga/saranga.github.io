@@ -18,14 +18,13 @@ Hi! I'm Saranga Sudarshan, and you've landed at my personal website. Most recent
 <!-- My thesis, *Disagreement, Concepts and Convergence: A New Theory of Political Realist Legitimacy* argued for a novel conception of political realism as a theory of political legitimacy, the 'Dual Convergent Conception', by making use of recent innovations in the philosophy of language on metalinguistic negotiations, and in developmental psychology on the nature of concepts. You can read my thesis here. 
 
 ALSO CONSIDER PUTTING OSME OF MY INSTA PHOTOS ON THE WEBSITE
-
 -->
 
 
 
 
 To find out more about me you can:
-- Download my [Resume/CV](https://drive.google.com/file/d/1QIiZnlG9HH4POACNJJ_kbZK3vswjMdni/view?usp=sharing)
+- Download my [Resume/CV](https://docs.google.com/document/d/1-TUlDs94LM7jxW67jTlh5ESPVxgPVXKmcjxU-CQxjF8/edit?usp=sharing)
 - See my [ORCID](https://orcid.org/0000-0002-0750-0177)
 - Follow me on [philpapers](https://philpeople.org/profiles/saranga-sudarshan)
 
