@@ -22,11 +22,11 @@ My approach to teaching is to prepare students to do what philosophers do in pub
 
 ## Sample Syllabi
 
-[Intro to Political Theory: Justice, Legitimacy, and Politics](https://drive.google.com/file/d/1t3X2BjjLVFb5oJNOTpDQMu8hfkbIgz8P/view?usp=sharing)
+[Intro to Political Theory: Justice, Legitimacy, and Politics](https://docs.google.com/document/d/1uRMFTqr_pztGGmLkpNnrPDwvydR6ZTEq00ZkD0rkk44/edit?usp=sharing)
 
-[Intro to Moral Theory: Classical Approaches](https://drive.google.com/file/d/1T5CVFMe_cwicNTrUgSxhWfHgP7NljXRt/view?usp=sharing)
+[Intro to Moral Theory: Classical Approaches](https://docs.google.com/document/d/1SH-8-m-BjyC2KzySUws-TILeefsoy7rTnWapTgd0zC4/edit?usp=sharing)
 
-[Applied Ethics: Wealth inheritance, Capital Punishment, Conceptual Ethics/Engineering](https://drive.google.com/file/d/1TurGIBLRud-SVSCE3DM0_Vhx5sPyNsfi/view?usp=sharing)
+[Applied Ethics: Wealth inheritance, Capital Punishment, Conceptual Ethics/Engineering](https://docs.google.com/document/d/1-DJiQK3G5Q9jiY6lq3JRFsUyLM6gG8NWPjPy7ViIp-M/edit?usp=sharing)
 
 ## Teaching Experience
 
