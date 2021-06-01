@@ -19,9 +19,10 @@ My current research interests involve theories of political legitimacy, politica
 
 [Book review of *Political Pluralism, Disagreement and Justice: The Case for Polycentric Democracy* by Julian Muller](https://doi.org/10.1111/japp.12494), *Journal of Applied Philosophy*, 2021 [(Preprint)](https://docs.google.com/document/d/1c0ml6b_4sprN26Qd6DfpYyZsGOtlKKngtWqv3ZRMR-k/edit?usp=sharing)
 
+[Book review of *What is Political Philosophy* by Charles Larmore](https://doi.org/10.1111/japp.12518), *Journal of Applied Philosophy*, 2021 [(Preprint)](https://docs.google.com/document/d/1bxygyWASwlTdRSkkfM9eWjShCQXQ28UKg1Rj9RH8mSQ/edit?usp=sharing)
+
 Book review of *Minimal Morality: A Multilevel Social Contract Theory* by Michael Moehler, *Journal of Moral Philosophy*, forthcoming [(Preprint)](https://docs.google.com/document/d/1nSV86y9-RPJRQ3PltHQoNBsickirNsDqDW4Nor0uQ-Q/edit?usp=sharing)
 
-Book review of *What is Political Philosophy* by Charles Larmore, *Journal of Applied Philosophy*, forthcoming [(Preprint)](https://docs.google.com/document/d/1bxygyWASwlTdRSkkfM9eWjShCQXQ28UKg1Rj9RH8mSQ/edit?usp=sharing)
 
 ## In Progress and Under Review
 
