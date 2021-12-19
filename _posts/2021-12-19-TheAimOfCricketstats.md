@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Aim of cricketstats
+title: The Aim of Cricketstats
 date: 2021-12-19
 categories: cricket
 ---
