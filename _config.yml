@@ -5,6 +5,6 @@ email: nsaranga@hotmail.com
 baseurl: "/" # the subpath of your site, e.g. /blog
 # url: https://nsaranga.github.io # the base hostname & protocol for your site, e.g. http://example.com
 author: Saranga Sudarshan
-#twitter:
-#  username: humesfinger
-#  card: summary
+twitter:
+  username: humesfinger
+  card: summary
