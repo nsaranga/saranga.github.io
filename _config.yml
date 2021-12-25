@@ -5,8 +5,6 @@ This is my personal website.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://nsaranga.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 author: Saranga Sudarshan
-plugins:
-  - jekyll-seo-tag
 twitter:
   username: humesfinger
   card: summary
