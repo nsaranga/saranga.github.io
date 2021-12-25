@@ -41,5 +41,3 @@ The module can show us with the runs and outs columns a bit more about where pla
 While most of the statistics the module can produce for players can also be produced for teams, there a couple that are unique to teams. For instances the module can provide a list of innings results eg. Scores, Outs, and Overs faced. It can also provide successfully defended and chased scores, Net Boundary %, and Net Run Rate. I will not explain these here as they are relatively self-explanatory.
 
 Finally, it is worth mentioning that the full range of statistics available across all the possibel parameters can found in the "example.py" file I have provided with the module. The final provides a breakdown of how to use the module and an example for how to plot the data to create interesting visualisations of the data.
-
-
