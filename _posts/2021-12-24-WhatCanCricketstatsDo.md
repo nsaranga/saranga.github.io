@@ -26,7 +26,7 @@ The "Avg First Boundary Ball" expresses the number of balls on average that a ba
 Returning to the question above about Australia's batting lineup at the MCG, another thing the module can do is provide matchup data using the built-in player index. This can allow for an analysis of how a player matches up against a specific player, or even a particular type of batter (eg. Right or Left Hand) or bowler (eg. Right arm pace, Left arm pace, Right arm Off break, Right arm Leg break, Left arm orthodox and Left arm wrist spin). For instance, as I write this England are touring Australia and one question we might think about is how the Australian batting lineup has fared against left arm orthodox spinners in Test and domestic first-class cricket given England have one such spinner in Jack Leach. Here is what the module would produce for a query like that:
 
 |               |   Runs |   Outs |   Batting Avg |   Batting S/R |   Boundary % |   Balls Faced |
-|:--------------|-------:|-------:|--------------:|--------------:|-------------:|--------------:|
+|---------------|--------|--------|---------------|---------------|--------------|---------------|
 | DA Warner     |     48 |      0 |          0    |         81.36 |        10.17 |            59 |
 | SPD Smith     |    178 |      1 |        178    |         57.61 |         6.15 |           309 |
 | M Labuschagne |    349 |      6 |         58.17 |         74.57 |         7.48 |           468 |
