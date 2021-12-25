@@ -3,6 +3,7 @@ layout: post
 title: Women's Soccer and Structural Injustice
 date: 2015-10-29
 categories: philosophy
+author: Saranga Sudarshan
 ---
 A little over a month ago the Australian Women's National Football team, the "Matildas", went on strike over a wage and conditions dispute with the Football Federation of Australia (FFA). It seemed astounding that an Australian sporting team, in 2015, was being paid below the minimum wage and yet perform at the level of professional athletes. [Commentary](http://www.theguardian.com/football/2015/sep/11/matildas-player-strike-what-are-the-key-pay-demands-and-disputes-ahead) in the media seemed, as it so often does, to focus on a few narrow issues. Whilst the issues were not superficial, they did not really reach the fundamental nature of the problem.
 

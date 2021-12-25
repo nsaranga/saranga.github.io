@@ -3,6 +3,7 @@ layout: post
 title:  A Normative Challenge Against Destiny
 date:   2013-02-07
 categories: philosophy
+author: Saranga Sudarshan
 ---
 ![profile](/assets/DSC_0089800.jpg){:style="float:left;margin:0px 10px 0px 0px;width:50%;height:auto;"} Something that I'm noticing more and more every time I visit India are the problems caused by what my relatives call "Karma". Karma there is not used in common parlance the same way a theologian might use, but it is a general term referring to someone's destiny. The destiny in question is metaphysical such that it exists not as a proverb but as a real feature of reality. By this I mean that destiny or someone's destiny is not just an idea or a theory about something, it is a feature of reality. I think there is a good argument to be made that we should not believe that destiny is real if we want an egalitarian, law abiding society. Let me be clear this is not an argument about whether destiny is actually a feature of reality, but whether we should believe that it is if we want our society to be egalitarian and generally law abiding.
 

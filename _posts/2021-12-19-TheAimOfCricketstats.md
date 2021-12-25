@@ -3,6 +3,7 @@ layout: post
 title: The Aim of Cricketstats
 date: 2021-12-19
 categories: cricket
+author: Saranga Sudarshan
 ---
 Recently I uploaded the first version of ["cricketstats"](https://github.com/nsaranga/cricketstats) a python module that gets team and player statistics from the [cricsheet.org](https://cricsheet.org/) database for data analysis. However, when I released it I said very little of why I decided to write it or what the module aims to be. To that end, instead of packing the answers to those questions in the module's readme file I thought it better to write a couple of blog posts to explain them in more detail.
 
