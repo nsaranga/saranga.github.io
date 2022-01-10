@@ -4,8 +4,8 @@ description: Just my personal website
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://nsaranga.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter:
-  username: humesfinger
+ username: humesfinger
  # card: summary
 
 title_image: "/assets/lake.jpg"
-  permalink: pretty
+ permalink: pretty
