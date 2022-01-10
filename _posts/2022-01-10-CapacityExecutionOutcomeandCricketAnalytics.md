@@ -4,6 +4,7 @@ title: Capacity, Execution, Outcome and Analytics in Cricket
 date: 2022-01-10
 categories: cricket
 author: Saranga Sudarshan
+summary:  Reflecting on the use of analytics for evaluating players and teams.
 ---
 In writing [cricketstats](https://github.com/nsaranga/cricketstats) I have become more and more interested in how analytics is used to evaluate players and teams. Fortunately, there has been a lot of Test cricket played recently and so a lot of ink spilled on analysing player and team performances. Reading some of these analyses raised some questions for me about what phenomena analytics is used to evaluate and how these uses are communicated to lay readers like myself. In this post I thought I might explore some of these questions and how I think the distinction between capacity, execution and outcome can help in answering them.
 
