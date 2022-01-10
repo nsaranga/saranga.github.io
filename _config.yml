@@ -1,6 +1,6 @@
 title: "Saranga Sudarshan"
 email: nsaranga@hotmail.com
-description: "Just my personal website"
+# description: "Just my personal website"
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: https://nsaranga.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter:
