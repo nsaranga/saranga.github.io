@@ -1,3 +1,11 @@
+---
+layout: post
+title: Brute Luck and Option Luck in Cricket
+date: 2022-01-12
+categories: cricket
+author: Saranga Sudarshan
+summary: How should we think about luck in cricket?
+---
 Writing my last post on the use of analytics and the distinction between capacity, execution and outcomes, I realised that another philosophy related distinction that is helpful for analysing cricket is that between brute and option luck. Given that, I thought I would write a short post exploring that distinction and how it can help us think about what it means to be lucky or take risks in cricket and how that consideration can help in evaluating players and teams consistently.
 
 My thoughts on this topic were mainly motivated by two recent uses of analytics to evaluate players. The first interested me because of the questions it raised about how to think about players being lucky in cricket. [Ben Jones](https://www.cricviz.com/marnus-labuschagnes-luck/) in analysing Marnus Labuschagne's batting performances argues that according to at least two metrics he has been a "lucky" player - he is caught less often compared to other batters on average, and he edges on average more than other players before getting out - and yet he has also been "unlucky" in two ways - his first appearance against England was facing Jofra Archer and because of Covid he has not toured outside Australia. Jones also argues that Ben Stokes has been lucky with respect to the first metric as well. 
