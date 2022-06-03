@@ -17,7 +17,7 @@ header{width:100%;max-width:55em;margin:auto;padding:0 1em 0 1em;text-decoration
 .titlelink:visited{color:black;}
 .titlelink:hover{cursor:pointer;text-decoration:underline;}
 
-.page-content{padding:0 1em 0 1em;font-family:Vollkorn;font-weight:400;width:100%;max-width:50em;margin:auto;}
+.page-content{padding:0 1em 0 1em;font-family:Vollkorn;font-weight:400;width:100%;max-width:45em;margin:auto;}
 h1, h2{font-family:Vollkorn;font-weight:400;}
 p, li{font-family:Vollkorn;font-weight:400;font-size:20px;text-align:left;}
 a{color:#ce1126;font-family:Vollkorn;font-weight:400;text-decoration:none}
