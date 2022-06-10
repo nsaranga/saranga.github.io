@@ -21,7 +21,9 @@ My current research interests involve theories of political legitimacy, politica
 
 [Book review of *What is Political Philosophy?* by Charles Larmore](https://doi.org/10.1111/japp.12518), *Journal of Applied Philosophy*, 2021 [(Preprint)](https://docs.google.com/document/d/1bxygyWASwlTdRSkkfM9eWjShCQXQ28UKg1Rj9RH8mSQ/edit?usp=sharing)
 
-Book review of *Minimal Morality: A Multilevel Social Contract Theory* by Michael Moehler, *Journal of Moral Philosophy*, forthcoming [(Preprint)](https://docs.google.com/document/d/1nSV86y9-RPJRQ3PltHQoNBsickirNsDqDW4Nor0uQ-Q/edit?usp=sharing)
+[Book review of *Minimal Morality: A Multilevel Social Contract Theory* by Michael Moehler](https://doi.org/10.1163/17455243-19020002), *Journal of Moral Philosophy*, 2022 [(Preprint)](https://docs.google.com/document/d/1nSV86y9-RPJRQ3PltHQoNBsickirNsDqDW4Nor0uQ-Q/edit?usp=sharing)
+
+Book review of *Agents of Change: Political Philosophy in Practice* by Ben Laurence. *Philosophical Quarterly*, forthcoming [(Preprint)](https://docs.google.com/document/d/1AyI6lxnvJN2B1pNoYs6ArLHRg-F2M0_iMQSxaU9jstY/edit?usp=sharing)
 
 
 ## In Progress and Under Review
