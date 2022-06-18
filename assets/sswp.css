@@ -1,4 +1,4 @@
-@font-face{font-family:"Vollkorn"}
+/* @font-face{font-family:Vollkorn} */
 
 /*
 
@@ -12,7 +12,7 @@ header{width:100%;max-width:55em;margin:auto;padding:0 1em 0 1em;text-decoration
 .navbuttons{text-align:center;padding:0px 5px 0px 5px;color:black;cursor:pointer;text-decoration:none;display:inline-block;margin:0px;}
 .navbuttons:hover{background-color:grey;color:white;cursor:pointer;text-decoration:none;-webkit-transition-duration:0.3s;transition-duration:0.3s;}
 .navbuttons:active{background-color:black;color:white;text-decoration:none;}
-.titlebox{background-color:white;top:0;width:100%;text-align:center;font-family:Vollkorn;font-weight:400;font-size:30px;display:inline-block;margin:5px 0px 5px 0px;}
+.titlebox{background-color:white;top:0;width:100%;text-align:center;font-family:"EB Garamond";font-weight:400;font-size:30px;display:inline-block;margin:5px 0px 5px 0px;}
 .titlelink{text-decoration:none;}
 .titlelink:visited{color:black;}
 .titlelink:hover{cursor:pointer;text-decoration:underline;}
