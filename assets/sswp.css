@@ -20,7 +20,7 @@ header{width:100%;max-width:55em;margin:auto;padding:0 1em 0 1em;text-decoration
 .page-content{padding:0 1em 0 1em;font-family:"EB Garamond", serif;font-weight:400;width:100%;max-width:45em;margin:auto;}
 /* h1, h2{font-family:Vollkorn;font-weight:400;}
 p, li{font-family:Vollkorn;font-weight:400;font-size:18px;text-align:left;} */
-h1, h2{font-weight:400;}
+h1, h2, h3{font-weight:400;}
 p, li{font-size:20px;text-align:left;line-height: 1.6em;}
 a{color:#ce1126;text-decoration:none}
 a:hover{color:#ce1126;text-decoration:underline}
