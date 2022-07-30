@@ -5,7 +5,7 @@ date: 2022-07-30
 categories: history
 author: Saranga Sudarshan
 summary: Why the past is no guide for Indian pluralism
-image: https://pictures.abebooks.com/isbn/9780143102434-us.jpg
+image: /assets/Capture_of_the_King_of_Delhi_by_Captain_Hodson.jpg
 ---
 After many months I finally finished William Dalrymple's The Last Mughal. The book is an impressively detailed history of the events leading up to during and after the 1857 mutiny which saw the overthrow of the eponymous last Mughal ruler of India, Bhahadur Shah II.  What follows is not a review or scholarly appraisal of any kind. I am neither qualified nor equipped after one reading to attempt anything like that. Rather it is a series of loosely connected thoughts about what the immersive picture that Dalrymple paints of that time can tell us about Indian society today, the nature of religion, and the place of history in our deliberations about what to do in the present.
 
