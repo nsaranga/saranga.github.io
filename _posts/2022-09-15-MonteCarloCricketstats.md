@@ -69,6 +69,4 @@ The result of all this is that the India Future lineup wins 65% of the time, whe
 
 The lesson, as it was in the case of Australia appears clear. For a higher chance of winning picking batters who are more aggressive boundary hitters, and pick bowlers who are more economical. Picking players based on reputation and performances in other formats will not maximise a team's chance of winning.
 
-
-
 [^1]: Thank you to [Amol Desi](https://twitter.com/amol_desai) for suggesting show the difference in the batting capacity in this way.
