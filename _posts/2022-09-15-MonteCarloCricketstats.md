@@ -5,7 +5,7 @@ date: 2022-09-15
 categories: cricket
 author: Saranga Sudarshan
 summary: Evaluating player contributions using a monte carlo cricket simulator
-image: /assets/Indiafuturevslegacybattingdiff.png
+image: /assets/indiafuturevslegacydistros.png
 ---
 This is a post that analyses how player selections can make a difference to a team's chance of winning in the upcoming T20 World Cup. It is also a demonstration of what once can do with the newly added monte carlo simulator modules in the cricketstats package.
 
@@ -59,11 +59,11 @@ These results are not just a matter of getting lucky with these particular teams
 
 Again running the simulations gives a distibution of first innings scores for the Future lineup a higher average score (154 vs 146), with great variance (standard deviation of 20 vs 19).
 <figure style="text-align:center;">
-<img src="/assets/indfuturevslegacydistros.png" alt="image"/>
+<img src="/assets/indiafuturevslegacydistros.png" alt="image"/>
 </figure>
 The distribution also shows that we can expect the India Future lineup to have score more than the Legacy lineup close 60% of the time.
 <figure style="text-align:center;">
-<img src="/assets/indfuturevslegacybattingdiff.png" alt="image"/>
+<img src="/assets/indiafuturevslegacybattingdiff.png" alt="image"/>
 </figure>
 The result of all this is that the India Future lineup wins 65% of the time, whereas the Legacy lineup wins 53%. 
 
