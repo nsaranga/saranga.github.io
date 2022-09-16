@@ -43,6 +43,7 @@ But what does all this mean in terms of the difference we can expect between the
 All the differences to the right of the dotted line are positive differences and so instances where the Australia Future lineup posts a higher score than the Legacy lineup. Statistically it is clear that the Future lineup has clear advantage which contributes to a higher expected win percentage at 60% vs 46% for the Australia Legacy lineup. This will prove especially interesting in the next few weeks as it seems Finch will captain Australia in the upcoming T20 World Cup, and Australia are likely to select players like Smith and Labuschagne despite statistically not being the best choices.
 
 These results are not just a matter of getting lucky with these particular teams. Another example are the following lineups for India against a Pakistan lineup they may face in their first match of the T20 World Cup. This is especially important giving India's poor showing at ICC tournaments and, in the eyes of some at least, continue poor selection of players based on reputation and success in other formats of cricket.
+
 |India Legacy|India Future|Pakistan|
 |--|--|--|
 |KL Rahul|SA Yadav|Mohammad Rizwan|
