@@ -48,13 +48,13 @@ These results are not just a matter of getting lucky with these particular teams
 |KL Rahul|SA Yadav|Mohammad Rizwan|
 |S Dhawan|SV Samson|Babar Azam|
 |RG Sharma|RG Sharma|Fakhar Zaman|
-|V Kohli|Ishan Kishan| Mohammad Nawaz|
+|V Kohli|Ishan Kishan|Mohammad Nawaz|
 |SS Iyer|DJ Hooda|Khushdil Shah|
 |RR Pant|KD Karthik|Asif Ali|
 |HH Pandya|HH Pandya|Iftikhar Ahmed|
 |RA Jadeja|RA Jadeja|Shadab Khan|
 |Mohammed Shami|AR Patel|Haris Rauf|
-|B Kumar|B Kumar| Mohammad Hasnain|
+|B Kumar|B Kumar|Mohammad Hasnain|
 |JJ Bumrah|JJ Bumrah|Naseem Shah|
 
 Again running the simulations gives a distibution of first innings scores for the Future lineup a higher average score (154 vs 146), with great variance (standard deviation of 20 vs 19).
