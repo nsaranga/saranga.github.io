@@ -10,4 +10,5 @@ twitter:
 socialmedia_image: "/assets/lake.jpg"
 permalink: pretty
 plugins:
+  - jekyll-sitemap
   - jekyll-seo-tag
