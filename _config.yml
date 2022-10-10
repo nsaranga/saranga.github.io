@@ -5,6 +5,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: https://nsaranga.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter:
   username: humesfinger
+  creator: humesfinger
   card: summary_large_image
 socialmedia_image: "/assets/lake.jpg"
 permalink: pretty
