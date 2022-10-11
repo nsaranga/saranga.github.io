@@ -21,7 +21,7 @@ header{width:100%;max-width:55em;margin:auto;padding:0 1em 0 1em;text-decoration
 
 .PageNavigation {font-size: 16px;display: block;width: auto;overflow: hidden;}  
 .PageNavigation a {display: block;width: 25%;float: left;margin: 1em 0;}  
-.PageNavigation .next {text-align: right;}
+.PageNavigation .next {text-align: right;float: right;}
 
 /* h1, h2{font-family:Vollkorn;font-weight:400;}
 p, li{font-family:Vollkorn;font-weight:400;font-size:18px;text-align:left;} */
