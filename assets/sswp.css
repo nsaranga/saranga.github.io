@@ -19,8 +19,8 @@ header{width:100%;max-width:55em;margin:auto;padding:0 1em 0 1em;text-decoration
 
 .page-content{padding:0 1em 0 1em;font-family:"EB Garamond", serif;font-weight:400;width:100%;max-width:45em;margin:auto;}
 
-.PageNavigation {font-size: 14px;display: block;width: auto;overflow: hidden;}  
-.PageNavigation a {display: block;width: 50%;float: left;margin: 1em 0;}  
+.PageNavigation {font-size: 16px;display: block;width: auto;overflow: hidden;}  
+.PageNavigation a {display: block;width: 25%;float: left;margin: 1em 0;}  
 .PageNavigation .next {text-align: right;}
 
 /* h1, h2{font-family:Vollkorn;font-weight:400;}
