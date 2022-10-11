@@ -1,6 +1,6 @@
 title: "Saranga Sudarshan"
 email: nsaranga@hotmail.com
-description: "my website and blog"
+description: "my personal website and blog"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://nsaranga.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter:
@@ -12,3 +12,4 @@ permalink: pretty
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-feed
