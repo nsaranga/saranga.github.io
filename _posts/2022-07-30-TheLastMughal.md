@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some thoughts about The Last Mughal
+title: Some Thoughts about The Last Mughal
 date: 2022-07-30
 categories: history
 author: Saranga Sudarshan

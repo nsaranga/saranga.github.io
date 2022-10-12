@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Simulating teams for the 2022 T20 World Cup
+title: Simulating Teams for the 2022 T20 World Cup
 date: 2022-09-15
 categories: cricket
 author: Saranga Sudarshan
