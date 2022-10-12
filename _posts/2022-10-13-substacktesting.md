@@ -1,7 +1,7 @@
 ---
 layout: post
 title: title test
-date: 2022-10-13
+date: 2022-10-12
 categories: fiction
 author: Saranga Sudarshan
 summary: summary test
