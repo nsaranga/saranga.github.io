@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kant’s view of Enlightenment
+title: Kant’s view on enlightenment
 date: 2022-10-28
 categories: philosophy
 author: Saranga Sudarshan
