@@ -4,7 +4,7 @@ title: The Cunning of Becky Sharp and Barry Lyndon
 date: 2022-10-09
 categories: fiction
 author: Saranga Sudarshan
-summary: On what Vanity Fair and The Luck Barry Lyndon helps us see about our own societies 
+summary: On what Vanity Fair and The Luck Barry of Lyndon helps us see about our own societies 
 ---
 Recently I finished William Makepiece Thackeray's *Vanity Fair*, and was struck, as I was when I read *The Luck of Barry Lyndon* a few years ago, about how these 19th century novels can be so gripping even now. The past is really a different world. It is inhabited by strange people, living according to strange norms in bewildering circumstances. Strange and bewildering that is to us. But despite this both of Thackeray's novels reach out to us in with a disconcerting familiarity.
 
