@@ -8,9 +8,9 @@ summary: A mini-review of Kant's essay on enlightenment
 ---
 Recently I have been rereading some of Immanual Kant’s essays after picking up a used copy of Ted Humphrey’s translation, *Perpetual Peace and Other Essays* on Abebooks. I probably first read these separately more than 10 years ago as an undergrad, and, as I think is common at that stage, rather than retaining anything specific the essays formed more of a general philosophical foundation. Given that, I thought it might be interesting to do a series of mini-reviews of the essays and explore what, if anything, they have to teach us now.[^1]
 
-One essay, written in 1784, that I am sure had some effect on my thinking was "Answering the Question: What Is Enlightenment?". One immediately enjoyable aspect of the essay is Kant’s forthrightness. He answers the question in the title in the first paragraph. 
+One essay, written in 1784, that I am sure had some effect on my thinking was "Answering the Question: What Is Enlightenment?". One immediately enjoyable aspect of the essay is Kant’s forthrightness. He answers the question in the title in the first line. 
 
-> Enlightenment is  man’s emergence from his self imposed immaturity.
+> Enlightenment is man’s emergence from his self-imposed immaturity.
 
 Immaturity, in this context, is the inability to use one’s “understanding” (eg. powers of reason) without guidance. Kant appears initially to solely blame people’s laziness and cowardice for the immaturity by describing it as self-imposed. But, Kant also apportions blame, sarcastically, on “benevolent guardians” that keep people, and Kant draws specific emphasis on women[^2] here, in this state of immaturity by keeping them unable to reason and then constantly showing them the danger of it.
 
