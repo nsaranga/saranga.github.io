@@ -6,7 +6,7 @@ categories: fiction
 author: Saranga Sudarshan
 summary: Some short remarks about Srinivas Vaidya’s A Handful of Sesame
 ---
-I recently finished *A Handful of Sesame*, an english translation of Srinivas Vaidya’s 1988 kannada novel, *Halla Bantu Halla*. It tells an interesting enough story that's worth a read. I don’t have anything deep or extensive to say about it so I will confine myself to three broad remarks about the novel itself, the translation, and the printing.
+I recently finished *A Handful of Sesame*, an english translation by Maithreyi Karnoor of Srinivas Vaidya’s 1988 kannada novel, *Halla Bantu Halla*. It tells an interesting enough story that's worth a read. I don’t have anything deep or extensive to say about it so I will confine myself to three broad remarks about the novel itself, the translation, and the printing.
 
 The novel is essentially the story of a single family in northern Karnataka from 1857 to 1948. Following the lives of the various family members across this historical span makes for an immersive and enjoyable read. It is also well written in many parts. Some of the metaphors used to describe the moonlit rural scenes, which if the translation is true to the original, are beautiful. The frequent slow build ups of dramatic tension which are then abruptly concluded with a tragedy reminded me of Carson McCullers’s The Heart Is a Lonely Hunter.
 
