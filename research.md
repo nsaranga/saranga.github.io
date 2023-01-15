@@ -13,9 +13,13 @@ My current research interests involve theories of political legitimacy, politica
 </figure>
 
 
-## Publications
+## Journal Articles
 
 ["The Irrevocability of Capital Punishment and Active Voluntary Euthanasia"](https://doi.org/10.1111/japp.12478), *Journal of Applied Philosophy*, 2020 (Open Access)
+
+"Reasonable Disagreement and Metalinguistic Negotiation", *Theoria*, forthcoming [(Preprint)](https://docs.google.com/document/d/18YvnHCQt9ato9P-usZJWdQpWe5PZQXsQXM8pKhSDaT0/edit?usp=share_link)
+
+## Book Reviews
 
 [Book review of *Political Pluralism, Disagreement and Justice: The Case for Polycentric Democracy* by Julian Muller](https://doi.org/10.1111/japp.12494), *Journal of Applied Philosophy*, 2021 [(Preprint)](https://docs.google.com/document/d/1c0ml6b_4sprN26Qd6DfpYyZsGOtlKKngtWqv3ZRMR-k/edit?usp=sharing)
 
@@ -25,13 +29,11 @@ My current research interests involve theories of political legitimacy, politica
 
 [Book review of *Agents of Change: Political Philosophy in Practice* by Ben Laurence](https://doi.org/10.1093/pq/pqac025), *Philosophical Quarterly*, 2022 [(Preprint)](https://docs.google.com/document/d/1AyI6lxnvJN2B1pNoYs6ArLHRg-F2M0_iMQSxaU9jstY/edit?usp=sharing)
 
-["Reasonable Disagreement and Metalinguistic Negotiation", *Theoria*, forthcoming [(Preprint)](/assets/ReasonableDisagreementAsCanonicalDisputesAndMetalinguisticNegotiation_Theoria.pdf)
-
 ## In Progress and Under Review
 
-["Verbal Agreements, Integrity and the Pressure of Instability against the Convergence Conception of Political Liberalism"](https://docs.google.com/document/d/1RIy1EWnEBFOxavTOGO1eQa3g3knbBdxs4aeeWDi1bD8/edit?usp=sharing) (under review)
+["Verbal Agreements, Integrity and the Pressure of Instability against the Convergence Conception of Political Liberalism"](https://docs.google.com/document/d/1cY4dmTVrZq380FiGUvEF_RGp1xw-qiyp4mJ9jOgBuIE/edit?usp=share_link) (under review)
 
-["The Instability of the Restrained Domination Conception of Political Realism"](/assets/BetweenConsensusUnrestrainedCoercionPoliticalRealism.pdf) (under review)
+["The Instability of the Restrained Domination Conception of Political Realism"](https://docs.google.com/document/d/1YMqCKsBhsELcWb6H0_vv6CHnyhRM93SMsw_eh0i7_VY/edit?usp=share_link) (under review)
 
 "The Independence of Political Theory"
 
