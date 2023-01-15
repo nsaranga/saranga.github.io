@@ -23,12 +23,11 @@ My current research interests involve theories of political legitimacy, politica
 
 [Book review of *Minimal Morality: A Multilevel Social Contract Theory* by Michael Moehler](https://doi.org/10.1163/17455243-19020002), *Journal of Moral Philosophy*, 2022 [(Preprint)](https://docs.google.com/document/d/1nSV86y9-RPJRQ3PltHQoNBsickirNsDqDW4Nor0uQ-Q/edit?usp=sharing)
 
-Book review of *Agents of Change: Political Philosophy in Practice* by Ben Laurence. *Philosophical Quarterly*, forthcoming [(Preprint)](https://docs.google.com/document/d/1AyI6lxnvJN2B1pNoYs6ArLHRg-F2M0_iMQSxaU9jstY/edit?usp=sharing)
+[Book review of *Agents of Change: Political Philosophy in Practice* by Ben Laurence](https://doi.org/10.1093/pq/pqac025), *Philosophical Quarterly*, 2022 [(Preprint)](https://docs.google.com/document/d/1AyI6lxnvJN2B1pNoYs6ArLHRg-F2M0_iMQSxaU9jstY/edit?usp=sharing)
 
+["Reasonable Disagreement and Metalinguistic Negotiation", *Theoria*, forthcoming [(Preprint)](/assets/ReasonableDisagreementAsCanonicalDisputesAndMetalinguisticNegotiation_Theoria.pdf)
 
 ## In Progress and Under Review
-
-["Reasonable Disagreement and Metalinguistic Negotiation"](/assets/ReasonableDisagreementMetalinguisticNegotiation.pdf)
 
 ["Verbal Agreements, Integrity and the Pressure of Instability against the Convergence Conception of Political Liberalism"](https://docs.google.com/document/d/1RIy1EWnEBFOxavTOGO1eQa3g3knbBdxs4aeeWDi1bD8/edit?usp=sharing) (under review)
 
