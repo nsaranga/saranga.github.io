@@ -17,7 +17,7 @@ My current research interests involve theories of political legitimacy, politica
 
 ["The Irrevocability of Capital Punishment and Active Voluntary Euthanasia"](https://doi.org/10.1111/japp.12478), *Journal of Applied Philosophy*, 2020 (Open Access)
 
-"Reasonable Disagreement and Metalinguistic Negotiation", *Theoria*, forthcoming [(Preprint)](https://docs.google.com/document/d/18YvnHCQt9ato9P-usZJWdQpWe5PZQXsQXM8pKhSDaT0/edit?usp=share_link)
+["Reasonable Disagreement and Metalinguistic Negotiation"](https://doi.org/10.1111/theo.12454), *Theoria*, 2023 [(Preprint)](https://docs.google.com/document/d/18YvnHCQt9ato9P-usZJWdQpWe5PZQXsQXM8pKhSDaT0/edit?usp=share_link)
 
 ## Book Reviews
 
@@ -44,7 +44,6 @@ My current research interests involve theories of political legitimacy, politica
 
 <!--
 \item Three Views on Explaining Reasonable Disagreement
-\item Reasonable Disagreement and Metalinguistic Negotiation (under review at Metaphilosophy)
 \item Consensus Political Liberalism and Deep Disagreement
 \item Why Convergence Political Liberalism Cannot Create Stability
 \item Between Consensus and Unrestrained Coercion: Two Problems for Political Realism
