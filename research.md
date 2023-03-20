@@ -33,8 +33,6 @@ My current research interests involve theories of political legitimacy, politica
 
 ## In Progress and Under Review
 
-["Verbal Agreements and the Pressure of Instability against the Convergence Conception of Political Liberalism"](https://docs.google.com/document/d/1cY4dmTVrZq380FiGUvEF_RGp1xw-qiyp4mJ9jOgBuIE/edit?usp=share_link) (under review)
-
 ["The Instability of the Restrained Domination Conception of Political Realism"](https://docs.google.com/document/d/1YMqCKsBhsELcWb6H0_vv6CHnyhRM93SMsw_eh0i7_VY/edit?usp=share_link) (under review)
 
 "The Independence of Political Theory"
