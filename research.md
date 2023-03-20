@@ -19,6 +19,8 @@ My current research interests involve theories of political legitimacy, politica
 
 ["Reasonable Disagreement and Metalinguistic Negotiation"](https://doi.org/10.1111/theo.12454), *Theoria*, 2023 [(Preprint)](https://docs.google.com/document/d/18YvnHCQt9ato9P-usZJWdQpWe5PZQXsQXM8pKhSDaT0/edit?usp=share_link)
 
+"Verbal Agreements and the Pressure of Instability against the Convergence Conception of Political Liberalism", *Journal of Social and Political Philosophy*, forthcoming [(Preprint)](https://docs.google.com/document/d/1cY4dmTVrZq380FiGUvEF_RGp1xw-qiyp4mJ9jOgBuIE/edit?usp=share_link) (under review)
+
 ## Book Reviews
 
 [Book review of *Political Pluralism, Disagreement and Justice: The Case for Polycentric Democracy* by Julian Muller](https://doi.org/10.1111/japp.12494), *Journal of Applied Philosophy*, 2021 [(Preprint)](https://docs.google.com/document/d/1c0ml6b_4sprN26Qd6DfpYyZsGOtlKKngtWqv3ZRMR-k/edit?usp=sharing)
@@ -31,7 +33,7 @@ My current research interests involve theories of political legitimacy, politica
 
 ## In Progress and Under Review
 
-["Verbal Agreements, Integrity and the Pressure of Instability against the Convergence Conception of Political Liberalism"](https://docs.google.com/document/d/1cY4dmTVrZq380FiGUvEF_RGp1xw-qiyp4mJ9jOgBuIE/edit?usp=share_link) (under review)
+["Verbal Agreements and the Pressure of Instability against the Convergence Conception of Political Liberalism"](https://docs.google.com/document/d/1cY4dmTVrZq380FiGUvEF_RGp1xw-qiyp4mJ9jOgBuIE/edit?usp=share_link) (under review)
 
 ["The Instability of the Restrained Domination Conception of Political Realism"](https://docs.google.com/document/d/1YMqCKsBhsELcWb6H0_vv6CHnyhRM93SMsw_eh0i7_VY/edit?usp=share_link) (under review)
 
