@@ -5,6 +5,7 @@ date: 2023-04-12
 categories: fiction
 author: Saranga Sudarshan
 summary: The conscience in Crime and Punishment and A Man for All Seasons
+image: /assets/rainforest.jpg
 ---
 Oddly, two pieces of fiction written almost exactly a century apart have got me thinking about the nature of the moral conscience and its place in social life. It seems to me that Dostoyesky’s 19th century novel Crime and Punishment and Robert Bolt’s 1966 play A Man for All Seasons are, amongst other things, insightful explorations of what a moral conscience is, how conclusive it actually is in the face of other normative requirements, and its role in oath taking.
 
