@@ -8,7 +8,7 @@ body{width:100%;margin:0 auto;}
 *{box-sizing: border-box;}
 
 header{width:100%;max-width:55em;margin:auto;padding:0 1em 0 1em;text-decoration:none;background-color:white;}
-.navbar{box-shadow: 0px 10px 10px -10px black;background-color:white;width:100%;max-width:55em;text-align:center;font-size:20px;font-family:"EB Garamond", serif;font-weight:400;display:inline-block;margin:auto;position:sticky;position:-webkit-sticky;top:0;}
+.navbar{box-shadow: 0px 10px 10px -10px black;background-color:white;width:100%;max-width:40em;text-align:center;font-size:20px;font-family:"EB Garamond", serif;font-weight:400;display:block;margin:auto;position:sticky;position:-webkit-sticky;top:0;}
 .navbuttons{text-align:center;padding:2px 5px 2px 5px;color:black;cursor:pointer;text-decoration:none;display:inline-block;margin:5px; background:rgba(211, 211, 211,0.5);border-radius:5px}
 .navbuttons:hover{background-color:lightgrey;color:black;cursor:pointer;text-decoration:none;-webkit-transition-duration:0.3s;transition-duration:0.3s;}
 .navbuttons:active{background-color:lightgrey;color:black;text-decoration:none;}
