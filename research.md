@@ -19,7 +19,7 @@ My current research interests involve theories of political legitimacy, politica
 
 ["Reasonable Disagreement and Metalinguistic Negotiation"](https://doi.org/10.1111/theo.12454), *Theoria*, 2023 [(Preprint)](https://docs.google.com/document/d/18YvnHCQt9ato9P-usZJWdQpWe5PZQXsQXM8pKhSDaT0/edit?usp=share_link)
 
-"Verbal Agreements and the Pressure of Instability against the Convergence Conception of Political Liberalism", *Journal of Social and Political Philosophy*, forthcoming [(Preprint)](https://docs.google.com/document/d/1cY4dmTVrZq380FiGUvEF_RGp1xw-qiyp4mJ9jOgBuIE/edit?usp=share_link) (under review)
+"Verbal Agreements and the Pressure of Instability against the Convergence Conception of Political Liberalism", *Journal of Social and Political Philosophy*, forthcoming [(Preprint)](https://docs.google.com/document/d/18vb-5PT3eEWp52EOkGNT07vYxF0OGHNJ/edit?usp=share_link&ouid=109480279836456339635&rtpof=true&sd=true)
 
 ## Book Reviews
 
