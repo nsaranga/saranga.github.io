@@ -1,4 +1,4 @@
-import Chart from 'https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.3.0/chart.js/auto'
+import Chart from 'https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.3.0/chart.js'
 
 (async function() {
   const data = [
