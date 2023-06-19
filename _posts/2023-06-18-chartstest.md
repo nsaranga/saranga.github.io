@@ -7,7 +7,7 @@ author: Saranga Sudarshan
 ---
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.3.0/chart.min.js" integrity="sha512-mlz/Fs1VtBou2TrUkGzX4VoGvybkD9nkeXWJm3rle0DPHssYYx4j+8kIS15T78ttGfmOjH0lLaBXGcShaVkdkg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <!-- <div style="width: 500px;"><canvas id="dimensions"></canvas></div><br/> -->
-<div style="width: 800px;"><canvas id="acquisitions"></canvas></div>
+<div style="width: 800px;"><canvas id="graph" height="350" width="580"></canvas></div>
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
@@ -21,7 +21,7 @@ author: Saranga Sudarshan
     { year: 2016, count: 28 },
   ];
 
-  new Chart(
+  var graph = new Chart(
     document.getElementById('acquisitions'),
     {
       type: 'bar',
