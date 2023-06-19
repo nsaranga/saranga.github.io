@@ -11,7 +11,6 @@ author: Saranga Sudarshan
 
 <!-- <script type="module" src="dimensions.js"></script> -->
 <script>
-    (async function() {
   const data = [
     { year: 2010, count: 10 },
     { year: 2011, count: 20 },
@@ -37,5 +36,4 @@ author: Saranga Sudarshan
       }
     }
   );
-})();
 </script>
