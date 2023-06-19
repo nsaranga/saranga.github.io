@@ -20,9 +20,9 @@ author: Saranga Sudarshan
     { year: 2015, count: 30 },
     { year: 2016, count: 28 },
   ];
-
+  var chrt = document.getElementById('acquisitions');
   var graph = new Chart(
-    document.getElementById('acquisitions'),
+    ,
     {
       type: 'bar',
       data: {
