@@ -21,7 +21,7 @@ author: Saranga Sudarshan
     { year: 2016, count: 28 },
   ];
   var chrt = document.getElementById('acquisitions');
-  var graph = new Chart(
+  var graph = new Chart(chrt
     ,
     {
       type: 'bar',
