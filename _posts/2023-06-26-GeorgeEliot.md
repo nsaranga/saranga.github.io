@@ -4,7 +4,7 @@ title: George Eliot and middle class anxieties
 date: 2023-06-26
 categories: fiction
 author: Saranga Sudarshan
-summary: One how Eliot's psychologically deep characters reveal the evolution of middle class anxieties.
+summary: On how Eliot's psychologically deep characters reveal the evolution of middle class anxieties.
 image: /assets/rainforest.jpg
 ---
 When reading George Eliot’s (Mary Anne Evans) novels it often feels like you are a species accidently peering back in time to witness your own evolution. But rather than any physical change, in Eliots’ novels, we are fortunate to see the early stages of the social evolution of the middle class. A class whose habits and beliefs dominate democratic politics today like no other section of society. Eliot is able to offer this sort of picture, because she constructs characters with incredible psychological insight. By this I don’t mean the often heard praise that characters are “relatable”. Many of her characters are aliens to us living in an alien world. Rather they are fully formed, psychologically coherent, to the extent any of us are, and faithful to themselves. 
