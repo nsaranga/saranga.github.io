@@ -1,10 +1,10 @@
 ---
 layout: post
-title: The left should give up on progressivism
+title: The Left Should Give Up On Progressivism
 date: 2023-10-12
 categories: philosophy
 author: Saranga Sudarshan
-summary: Some unstructured thoughts on methodological progressivism in politics.
+summary: Some thoughts on methodological progressivism in politics.
 image: /assets/rainforest.jpg
 ---
 I can’t remember the exact circumstances the first time I heard the term “progressive” attached to left wing political beliefs. But I do remember finding it odd for a while that left wing beliefs about justice, or economic and social institutions could be progressive. On the most plausible reading it seemed to refer to the quality of left wing beliefs to be open to reforming society. To be open to destroying the old institutions and rules, and implementing new ones. This certainly seems to be how it is thought of when [younger generations](https://www.theguardian.com/australia-news/2023/jun/28/young-australians-far-less-likely-than-parents-to-vote-coalition-as-they-get-older-report-finds) are described as being ‘progressive’ and so unlikely to vote for right wing political parties. The same reading seems to underlie discussion around the constitutional referendum for a indigenous voice to parliament, where although the issue has not exactly fallen along party lines, its overwhelming support by left wing parties around the country have run together with a description of the voice as a [‘progressive’](https://www.abc.net.au/news/2023-09-15/victoria-progressive-no-campaign-voice-referendum/102846890) idea.
