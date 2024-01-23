@@ -6,7 +6,7 @@ layout: default
 *Credit: Clotilde Torregrossa*
 -->
 
-Hi! I'm Saranga Sudarshan, and you've landed at my personal website. Currently I'm a a Senior Analyst at Populares. Before that I was an Insights Analyst at Finder, and before that I did a PhD at the University of St Andrews where I worked on theories of legitimacy, political realism and political liberalism. During my PhD I spent half a year at the University of Arizona working with Gerald Gaus. Before that I was a Research Analyst at Frost & Sullivan in Sydney, and before that I did an MPhil and a BA (Hons) at the University of Sydney.
+Hi! I'm Saranga Sudarshan, and you've landed at my personal website. Currently I'm a Senior Analyst at Populares. Before that I was an Insights Analyst at Finder, and before that I did a PhD at the University of St Andrews where I worked on theories of legitimacy, political realism and political liberalism. During my PhD I spent half a year at the University of Arizona working with Gerald Gaus. Before that I was a Research Analyst at Frost & Sullivan in Sydney, and before that I did an MPhil and a BA (Hons) at the University of Sydney.
 
 Recently I have got into cricket statistics and analytics. As part of that I wrote an open-source python module called [cricketstats](https://github.com/nsaranga/cricketstats) that can get cricket statistics for players and teams from the cricsheet.org json cricket database for cricket analytics tasks. I welcome anyone to use it, suggest new features and find bugs.
 
