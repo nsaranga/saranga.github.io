@@ -26,7 +26,7 @@ ALSO CONSIDER PUTTING OSME OF MY INSTA PHOTOS ON THE WEBSITE
 
 
 To find out more about me you can:
-- Download my [Resume/CV](https://docs.google.com/document/d/1-TUlDs94LM7jxW67jTlh5ESPVxgPVXKmcjxU-CQxjF8/edit?usp=sharing)
+- Download my [Resume/CV](https://docs.google.com/document/d/1jDRo04QPjcXKQl1V3-bakqUlRkDjeSUxZIbxfOKOFSg/edit)
 - See my [ORCID](https://orcid.org/0000-0002-0750-0177)
 - Follow me on [philpapers](https://philpeople.org/profiles/saranga-sudarshan)
 
