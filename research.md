@@ -15,21 +15,21 @@ My current research interests involve theories of political legitimacy, politica
 
 ## Journal Articles
 
-["The Irrevocability of Capital Punishment and Active Voluntary Euthanasia"](https://doi.org/10.1111/japp.12478), *Journal of Applied Philosophy*, 2020 (Open Access) [PDF](/assets/Sudarshan2020.pdf)
+["The Irrevocability of Capital Punishment and Active Voluntary Euthanasia"](https://doi.org/10.1111/japp.12478), *Journal of Applied Philosophy*, 2020 (Open Access) [(PDF)](/assets/Sudarshan2020.pdf)
 
-["Reasonable Disagreement and Metalinguistic Negotiation"](https://doi.org/10.1111/theo.12454), *Theoria*, 2023 [PDF](/assets/Sudarshan2020.pdf)
+["Reasonable Disagreement and Metalinguistic Negotiation"](https://doi.org/10.1111/theo.12454), *Theoria*, 2023 [(PDF)](/assets/Sudarshan2020.pdf)
 
-["Verbal Agreements and the Pressure of Instability against the Convergence Conception of Political Liberalism"](https://www.euppublishing.com/doi/10.3366/jspp.2023.0055), *Journal of Social and Political Philosophy*, 2023 [PDF](/assets/Sudarshan2023b_proof.pdf)
+["Verbal Agreements and the Pressure of Instability against the Convergence Conception of Political Liberalism"](https://www.euppublishing.com/doi/10.3366/jspp.2023.0055), *Journal of Social and Political Philosophy*, 2023 [(PDF)](/assets/Sudarshan2023b_proof.pdf)
 
 ## Book Reviews
 
-[Book review of *Political Pluralism, Disagreement and Justice: The Case for Polycentric Democracy* by Julian Muller](https://doi.org/10.1111/japp.12494), *Journal of Applied Philosophy*, 2021 [PDF](/assets/Sudarshan2021.pdf)
+[Book review of *Political Pluralism, Disagreement and Justice: The Case for Polycentric Democracy* by Julian Muller](https://doi.org/10.1111/japp.12494), *Journal of Applied Philosophy*, 2021 [(PDF)](/assets/Sudarshan2021.pdf)
 
-[Book review of *What is Political Philosophy?* by Charles Larmore](https://doi.org/10.1111/japp.12518), *Journal of Applied Philosophy*, 2021 [PDF](/assets/Sudarshan2021b.pdf)
+[Book review of *What is Political Philosophy?* by Charles Larmore](https://doi.org/10.1111/japp.12518), *Journal of Applied Philosophy*, 2021 [(PDF)](/assets/Sudarshan2021b.pdf)
 
-[Book review of *Minimal Morality: A Multilevel Social Contract Theory* by Michael Moehler](https://doi.org/10.1163/17455243-19020002), *Journal of Moral Philosophy*, 2022 [PDF](/assets/Sudarshan2022b.pdf)
+[Book review of *Minimal Morality: A Multilevel Social Contract Theory* by Michael Moehler](https://doi.org/10.1163/17455243-19020002), *Journal of Moral Philosophy*, 2022 [(PDF)](/assets/Sudarshan2022b.pdf)
 
-[Book review of *Agents of Change: Political Philosophy in Practice* by Ben Laurence](https://doi.org/10.1093/pq/pqac025), *Philosophical Quarterly*, 2022 [PDF](/assets/Sudarshan2022.pdf)
+[Book review of *Agents of Change: Political Philosophy in Practice* by Ben Laurence](https://doi.org/10.1093/pq/pqac025), *Philosophical Quarterly*, 2022 [(PDF)](/assets/Sudarshan2022.pdf)
 
 ## In Progress and Under Review
 
