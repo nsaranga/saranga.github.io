@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Speculations on History
-date: 2024-60-14
+date: 2024-06-14
 categories: philosophy
 author: Saranga Sudarshan
 summary: Some thoughts on our relationship to history.
