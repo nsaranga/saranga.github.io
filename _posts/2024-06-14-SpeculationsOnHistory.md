@@ -17,12 +17,12 @@ Sometimes we overestimate the past. Marian Maudsley at the end of L.P Hartely’
 
 The past may be a foreign country, but it is more than that. It is a place that is familiar enough superficially we draw specious links to it from our present. For instance, in India, the historical spectre of 'the muslim rulers' seems to haunt almost any discussion of the past. But if you visit some of the historical monuments that still survive of that period, as I did last winter, you realise how laughable it is. To come upon Tippu Sultan's 18th century summer palace, one is surprised by its scale and meekness in comparison to the city that surrounds it. A squat two floor building of wood and plaster with several small rooms. A palace for a ruler in its day, but now set back from the busy market roads, it has no bearing on the India that surrounds it. 
 
-<figure style="text-align:left;">
+<figure style="text-align:center;">
 <img src="/assets/darwaza.jpg" alt="image"/>
 <figcaption> The Buland Darwaza in Fathepur Sikri
 </figcaption>
 </figure>
-<figure style="text-align:right;">
+<figure style="text-align:center;">
 <img src="/assets/bulanddarwaza.jpg" alt="image"/>
 <figcaption> Darwaza wall
 </figcaption>
