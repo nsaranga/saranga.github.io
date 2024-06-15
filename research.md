@@ -15,25 +15,25 @@ My current research interests involve theories of political legitimacy, politica
 
 ## Journal Articles
 
-["The Irrevocability of Capital Punishment and Active Voluntary Euthanasia"](https://doi.org/10.1111/japp.12478), *Journal of Applied Philosophy*, 2020 (Open Access)
+["The Irrevocability of Capital Punishment and Active Voluntary Euthanasia"](https://doi.org/10.1111/japp.12478), *Journal of Applied Philosophy*, 2020 (Open Access) [PDF](/assets/Sudarshan2020.pdf)
 
-["Reasonable Disagreement and Metalinguistic Negotiation"](https://doi.org/10.1111/theo.12454), *Theoria*, 2023 [(Preprint)](https://docs.google.com/document/d/18YvnHCQt9ato9P-usZJWdQpWe5PZQXsQXM8pKhSDaT0/edit?usp=share_link)
+["Reasonable Disagreement and Metalinguistic Negotiation"](https://doi.org/10.1111/theo.12454), *Theoria*, 2023 [PDF](/assets/Sudarshan2020.pdf)
 
-["Verbal Agreements and the Pressure of Instability against the Convergence Conception of Political Liberalism"](https://www.euppublishing.com/doi/10.3366/jspp.2023.0055), *Journal of Social and Political Philosophy*, 2023 [(Preprint)](https://docs.google.com/document/d/18vb-5PT3eEWp52EOkGNT07vYxF0OGHNJ/edit?usp=share_link&ouid=109480279836456339635&rtpof=true&sd=true)
+["Verbal Agreements and the Pressure of Instability against the Convergence Conception of Political Liberalism"](https://www.euppublishing.com/doi/10.3366/jspp.2023.0055), *Journal of Social and Political Philosophy*, 2023 [PDF](/assets/Sudarshan2023b_proof.pdf)
 
 ## Book Reviews
 
-[Book review of *Political Pluralism, Disagreement and Justice: The Case for Polycentric Democracy* by Julian Muller](https://doi.org/10.1111/japp.12494), *Journal of Applied Philosophy*, 2021 [(Preprint)](https://docs.google.com/document/d/1c0ml6b_4sprN26Qd6DfpYyZsGOtlKKngtWqv3ZRMR-k/edit?usp=sharing)
+[Book review of *Political Pluralism, Disagreement and Justice: The Case for Polycentric Democracy* by Julian Muller](https://doi.org/10.1111/japp.12494), *Journal of Applied Philosophy*, 2021 [PDF](/assets/Sudarshan2021.pdf)
 
-[Book review of *What is Political Philosophy?* by Charles Larmore](https://doi.org/10.1111/japp.12518), *Journal of Applied Philosophy*, 2021 [(Preprint)](https://docs.google.com/document/d/1bxygyWASwlTdRSkkfM9eWjShCQXQ28UKg1Rj9RH8mSQ/edit?usp=sharing)
+[Book review of *What is Political Philosophy?* by Charles Larmore](https://doi.org/10.1111/japp.12518), *Journal of Applied Philosophy*, 2021 [PDF](/assets/Sudarshan2021b.pdf)
 
-[Book review of *Minimal Morality: A Multilevel Social Contract Theory* by Michael Moehler](https://doi.org/10.1163/17455243-19020002), *Journal of Moral Philosophy*, 2022 [(Preprint)](https://docs.google.com/document/d/1nSV86y9-RPJRQ3PltHQoNBsickirNsDqDW4Nor0uQ-Q/edit?usp=sharing)
+[Book review of *Minimal Morality: A Multilevel Social Contract Theory* by Michael Moehler](https://doi.org/10.1163/17455243-19020002), *Journal of Moral Philosophy*, 2022 [PDF](/assets/Sudarshan2022b.pdf)
 
-[Book review of *Agents of Change: Political Philosophy in Practice* by Ben Laurence](https://doi.org/10.1093/pq/pqac025), *Philosophical Quarterly*, 2022 [(Preprint)](https://docs.google.com/document/d/1AyI6lxnvJN2B1pNoYs6ArLHRg-F2M0_iMQSxaU9jstY/edit?usp=sharing)
+[Book review of *Agents of Change: Political Philosophy in Practice* by Ben Laurence](https://doi.org/10.1093/pq/pqac025), *Philosophical Quarterly*, 2022 [PDF](/assets/Sudarshan2022.pdf)
 
 ## In Progress and Under Review
 
-["The Instability of the Restrained Domination Conception of Political Realism"](https://docs.google.com/document/d/1YMqCKsBhsELcWb6H0_vv6CHnyhRM93SMsw_eh0i7_VY/edit?usp=share_link) (under review)
+["The Instability of the Restrained Domination Conception of Political Realism"](https://docs.google.com/document/d/1YMqCKsBhsELcWb6H0_vv6CHnyhRM93SMsw_eh0i7_VY/edit?usp=share_link) (in progress)
 
 "The Independence of Political Theory"
 
